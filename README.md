@@ -1,7 +1,6 @@
 # secure-marketplace
 
-Step 0: Create Database (Each Member Does This on Their Own Computer)
-Everyone on their own laptop:
+Step 0: Create Database (Own your Computer)
 
 Open XAMPP → Start Apache + MySQL
 
